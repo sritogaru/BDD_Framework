@@ -1,0 +1,141 @@
+18:05:17.553 [main] INFO  stepdefinitions.Steps - User Login process started
+18:05:19.613 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:05:19.690 [main] INFO  stepdefinitions.Steps - Login Pass
+18:05:20.454 [main] INFO  stepdefinitions.Steps - Logged out successfully
+18:20:51.510 [main] INFO  stepdefinitions.Steps - User Login process started
+18:20:53.598 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:20:53.674 [main] INFO  stepdefinitions.Steps - Login Pass
+18:20:54.458 [main] INFO  stepdefinitions.Steps - Logged out successfully
+18:39:50.140 [main] INFO  stepdefinitions.Steps - User Login process started
+18:39:51.937 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:39:52.020 [main] INFO  stepdefinitions.Steps - Login Pass
+14:52:29.584 [main] INFO  stepdefinitions.Steps - User Login process started
+14:52:31.393 [main] INFO  stepdefinitions.Steps - user clciked on username
+14:52:31.476 [main] INFO  stepdefinitions.Steps - Login Pass
+14:52:45.777 [main] INFO  stepdefinitions.Steps - User Login process started
+14:52:47.459 [main] INFO  stepdefinitions.Steps - user clciked on username
+14:52:47.512 [main] INFO  stepdefinitions.Steps - Login Pass
+14:55:28.555 [main] INFO  stepdefinitions.Steps - User Login process started
+14:55:30.398 [main] INFO  stepdefinitions.Steps - user clciked on username
+14:55:30.480 [main] INFO  stepdefinitions.Steps - Login Pass
+14:55:30.483 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+14:55:33.834 [main] INFO  stepdefinitions.Steps - User Login process started
+14:55:35.579 [main] INFO  stepdefinitions.Steps - user clciked on username
+14:55:35.629 [main] INFO  stepdefinitions.Steps - Login Pass
+14:55:35.630 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+17:13:30.334 [main] INFO  stepdefinitions.Steps - User Login process started
+17:13:34.523 [main] INFO  stepdefinitions.Steps - User Login process started
+17:13:39.860 [main] INFO  stepdefinitions.Steps - User Login process started
+17:13:43.938 [main] INFO  stepdefinitions.Steps - User Login process started
+17:36:57.699 [main] INFO  stepdefinitions.Steps - User Login process started
+17:37:02.533 [main] INFO  stepdefinitions.Steps - User Login process started
+17:37:06.925 [main] INFO  stepdefinitions.Steps - User Login process started
+17:37:10.974 [main] INFO  stepdefinitions.Steps - User Login process started
+17:41:50.522 [main] INFO  stepdefinitions.Steps - User Login process started
+17:41:55.253 [main] INFO  stepdefinitions.Steps - User Login process started
+17:41:59.600 [main] INFO  stepdefinitions.Steps - User Login process started
+17:42:03.951 [main] INFO  stepdefinitions.Steps - User Login process started
+17:44:41.838 [main] INFO  stepdefinitions.Steps - User Login process started
+17:44:47.337 [main] INFO  stepdefinitions.Steps - User Login process started
+17:44:51.989 [main] INFO  stepdefinitions.Steps - User Login process started
+17:44:57.507 [main] INFO  stepdefinitions.Steps - User Login process started
+17:50:25.330 [main] INFO  stepdefinitions.Steps - User Login process started
+17:50:30.769 [main] INFO  stepdefinitions.Steps - User Login process started
+17:50:36.376 [main] INFO  stepdefinitions.Steps - User Login process started
+17:50:40.823 [main] INFO  stepdefinitions.Steps - User Login process started
+17:52:52.106 [main] INFO  stepdefinitions.Steps - User Login process started
+17:52:57.694 [main] INFO  stepdefinitions.Steps - User Login process started
+17:53:02.703 [main] INFO  stepdefinitions.Steps - User Login process started
+17:53:07.307 [main] INFO  stepdefinitions.Steps - User Login process started
+17:54:21.944 [main] INFO  stepdefinitions.Steps - User Login process started
+17:54:27.646 [main] INFO  stepdefinitions.Steps - User Login process started
+17:54:32.508 [main] INFO  stepdefinitions.Steps - User Login process started
+17:54:36.980 [main] INFO  stepdefinitions.Steps - User Login process started
+17:57:45.360 [main] INFO  stepdefinitions.Steps - User Login process started
+17:57:49.731 [main] INFO  stepdefinitions.Steps - User Login process started
+17:57:54.813 [main] INFO  stepdefinitions.Steps - User Login process started
+17:57:59.430 [main] INFO  stepdefinitions.Steps - User Login process started
+18:00:07.900 [main] INFO  stepdefinitions.Steps - User Login process started
+18:00:12.081 [main] INFO  stepdefinitions.Steps - User Login process started
+18:00:16.001 [main] INFO  stepdefinitions.Steps - User Login process started
+18:00:20.466 [main] INFO  stepdefinitions.Steps - User Login process started
+18:01:05.654 [main] INFO  stepdefinitions.Steps - User Login process started
+18:01:09.853 [main] INFO  stepdefinitions.Steps - User Login process started
+18:01:13.716 [main] INFO  stepdefinitions.Steps - User Login process started
+18:01:17.787 [main] INFO  stepdefinitions.Steps - User Login process started
+18:02:02.060 [main] INFO  stepdefinitions.Steps - User Login process started
+18:02:08.056 [main] INFO  stepdefinitions.Steps - User Login process started
+18:02:13.659 [main] INFO  stepdefinitions.Steps - User Login process started
+18:02:18.685 [main] INFO  stepdefinitions.Steps - User Login process started
+18:11:03.049 [main] INFO  stepdefinitions.Steps - User Login process started
+18:11:08.290 [main] INFO  stepdefinitions.Steps - User Login process started
+18:11:13.654 [main] INFO  stepdefinitions.Steps - User Login process started
+18:11:18.788 [main] INFO  stepdefinitions.Steps - User Login process started
+18:14:59.458 [main] INFO  stepdefinitions.Steps - User Login process started
+18:15:06.079 [main] INFO  stepdefinitions.Steps - User Login process started
+18:15:12.125 [main] INFO  stepdefinitions.Steps - User Login process started
+18:15:17.924 [main] INFO  stepdefinitions.Steps - User Login process started
+18:39:28.287 [main] INFO  stepdefinitions.Steps - User Login process started
+18:39:30.049 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:39:30.130 [main] INFO  stepdefinitions.Steps - Login Pass
+18:39:30.132 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+18:40:42.407 [main] INFO  stepdefinitions.Steps - User Login process started
+18:40:44.110 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:40:44.186 [main] INFO  stepdefinitions.Steps - Login Pass
+18:40:44.188 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+18:44:05.530 [main] INFO  stepdefinitions.Steps - User Login process started
+18:44:07.376 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:44:07.445 [main] INFO  stepdefinitions.Steps - Login Pass
+18:44:07.447 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+18:45:23.845 [main] INFO  stepdefinitions.Steps - User Login process started
+18:45:25.647 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:45:25.733 [main] INFO  stepdefinitions.Steps - Login Pass
+18:45:25.735 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+18:48:38.068 [main] INFO  stepdefinitions.Steps - User Login process started
+18:48:39.872 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:48:39.949 [main] INFO  stepdefinitions.Steps - Login Pass
+18:49:51.419 [main] INFO  stepdefinitions.Steps - User Login process started
+18:49:53.220 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:49:53.300 [main] INFO  stepdefinitions.Steps - Login Pass
+18:52:14.911 [main] INFO  stepdefinitions.Steps - User Login process started
+18:52:16.809 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:52:16.893 [main] INFO  stepdefinitions.Steps - Login Pass
+18:52:17.562 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+18:55:11.119 [main] INFO  stepdefinitions.Steps - User Login process started
+18:55:12.935 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:55:13.029 [main] INFO  stepdefinitions.Steps - Login Pass
+18:55:13.031 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+18:56:35.794 [main] INFO  stepdefinitions.Steps - User Login process started
+18:56:37.632 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:56:37.720 [main] INFO  stepdefinitions.Steps - Login Pass
+18:56:37.722 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+18:59:29.940 [main] INFO  stepdefinitions.Steps - User Login process started
+18:59:31.715 [main] INFO  stepdefinitions.Steps - user clciked on username
+18:59:31.786 [main] INFO  stepdefinitions.Steps - Login Pass
+18:59:31.789 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+19:06:43.340 [main] INFO  stepdefinitions.Steps - User Login process started
+19:06:45.036 [main] INFO  stepdefinitions.Steps - user clciked on username
+19:06:45.116 [main] INFO  stepdefinitions.Steps - Login Pass
+19:06:45.118 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+19:07:53.868 [main] INFO  stepdefinitions.Steps - User Login process started
+19:07:55.599 [main] INFO  stepdefinitions.Steps - user clciked on username
+19:07:55.678 [main] INFO  stepdefinitions.Steps - Login Pass
+19:07:55.680 [main] INFO  stepdefinitions.Steps - Logged out option is visible
+19:15:21.243 [main] INFO  stepdefinitions.Steps - User Login process started
+19:15:23.027 [main] INFO  stepdefinitions.Steps - user clciked on username
+19:15:23.109 [main] INFO  stepdefinitions.Steps - Login Pass
+19:17:08.773 [main] INFO  stepdefinitions.Steps - User Login process started
+19:17:10.533 [main] INFO  stepdefinitions.Steps - user clciked on username
+19:17:10.617 [main] INFO  stepdefinitions.Steps - Login Pass
+19:18:05.589 [main] INFO  stepdefinitions.Steps - User Login process started
+19:18:08.239 [main] INFO  stepdefinitions.Steps - user clciked on username
+19:18:08.351 [main] INFO  stepdefinitions.Steps - Login Pass
+19:18:10.200 [main] INFO  stepdefinitions.Steps - Logged out successfully
+13:54:38.016 [main] INFO  stepdefinitions.Steps - User Login process started
+13:54:40.231 [main] INFO  stepdefinitions.Steps - user clciked on username
+13:54:40.336 [main] INFO  stepdefinitions.Steps - Login Pass
+13:54:41.125 [main] INFO  stepdefinitions.Steps - Logged out successfully
+13:57:55.300 [main] INFO  stepdefinitions.Steps - User Login process started
+13:57:57.486 [main] INFO  stepdefinitions.Steps - user clciked on username
+13:57:57.555 [main] INFO  stepdefinitions.Steps - Login Pass
+13:57:58.442 [main] INFO  stepdefinitions.Steps - Logged out successfully
